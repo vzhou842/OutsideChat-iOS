@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120px"
+   height="120px"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Icon.svg">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="3.5777778"
+     inkscape:cx="9.9689441"
+     inkscape:cy="60"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">Icon</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Page-1"
+     sketch:type="MSPage"
+     style="fill:none;stroke:none"
+     inkscape:export-filename="/Users/victorzhou/Documents/Custom/XCode/OUTSIDECHAT/OutsideChat/Resources/AppIcon-1000.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"
+     transform="matrix(8.3333333,0,0,8.3333333,-440,-440)">
+    <g
+       id="Artboard"
+       sketch:type="MSArtboardGroup"
+       transform="translate(-140,-89)">
+      <g
+         id="Icon"
+         sketch:type="MSLayerGroup"
+         transform="translate(140,89)">
+        <path
+           d="M 40.799999,0 C 27.5,0 23.25,0 17.25,2 10.18,4.5 4.5,10.18 2,17.25 c -2,6 -2,10.25 -2,23.549999 0,0 7.427932e-8,38.399998 0,38.399998 C 7.427932e-8,92.5 5.9599635e-8,96.75 2,102.75 c 2.5046387,7.07 8.18,12.75 15.25,15.25 6,2 10.25,2 23.549999,2 l 38.399998,0 C 92.5,120 96.75,120 102.75,118 c 7.07,-2.5 12.75,-8.18 15.25,-15.25 2,-6 2,-10.25 2,-23.550003 l 0,-38.399998 C 120,27.5 120,23.25 118,17.25 115.5,10.25 109.74,4.5 102.74,2 96.739998,0 92.5,2.1106501e-8 79.199997,0 c 7,2.1106501e-8 -38.399998,0 -38.399998,0 z"
+           id="App-icon"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill:#3ab0b0" />
+        <g
+           id="Dan"
+           transform="translate(8,26)"
+           sketch:type="MSShapeGroup">
+          <path
+             d="m 54.160536,46.8 c -3.558309,0 -6.442889,2.255071 -6.442889,5.036842 0,2.781771 2.88458,5.036842 6.442889,5.036842 l 0,0"
+             id="Oval-11"
+             inkscape:connector-curvature="0"
+             style="fill:#f36969" />
+          <rect
+             id="Rectangle-18"
+             x="31.588236"
+             y="42"
+             width="41.599998"
+             height="48"
+             rx="9"
+             style="fill:#f6eacd" />
+          <rect
+             id="Rectangle-23"
+             x="64.847061"
+             y="55.700001"
+             width="13.458823"
+             height="15.6"
+             rx="40"
+             style="fill:#f6eacd" />
+          <rect
+             id="Rectangle-23-Copy"
+             x="24.247059"
+             y="56.700001"
+             width="13.458823"
+             height="15.6"
+             rx="40"
+             style="fill:#f6eacd" />
+          <path
+             d="m 33.647059,80.342449 c 0,-6.130361 3.441723,-11.1 7.688349,-11.1 l 18.882126,0 c 4.246157,0 7.688348,4.968291 7.688348,11.1"
+             id="path19"
+             inkscape:connector-curvature="0"
+             style="fill:#552c08" />
+          <ellipse
+             id="Oval-8"
+             cx="45.270588"
+             cy="63.599998"
+             rx="2.4470589"
+             ry="2.4000001"
+             d="m 47.717647,63.599998 c 0,1.325484 -1.095586,2.400001 -2.447059,2.400001 -1.351473,0 -2.447059,-1.074517 -2.447059,-2.400001 0,-1.325483 1.095586,-2.4 2.447059,-2.4 1.351473,0 2.447059,1.074517 2.447059,2.4 z"
+             sodipodi:cx="45.270588"
+             sodipodi:cy="63.599998"
+             sodipodi:rx="2.4470589"
+             sodipodi:ry="2.4000001"
+             style="fill:#552c08" />
+          <ellipse
+             id="Oval-8-Copy"
+             cx="57.811764"
+             cy="63.599998"
+             rx="2.4470589"
+             ry="2.4000001"
+             d="m 60.258823,63.599998 c 0,1.325484 -1.095586,2.400001 -2.447059,2.400001 -1.351474,0 -2.447059,-1.074517 -2.447059,-2.400001 0,-1.325483 1.095585,-2.4 2.447059,-2.4 1.351473,0 2.447059,1.074517 2.447059,2.4 z"
+             sodipodi:cx="57.811764"
+             sodipodi:cy="63.599998"
+             sodipodi:rx="2.4470589"
+             sodipodi:ry="2.4000001"
+             style="fill:#552c08" />
+          <rect
+             id="Rectangle-18-Copy"
+             x="27.529411"
+             y="0"
+             width="47.717648"
+             height="52.799999"
+             rx="14"
+             style="fill:#f29e08" />
+          <path
+             d="m 25.694118,52.59828 c 0,-0.551335 0.440089,-0.99828 1.007986,-0.99828 l 5.019322,0 c 0.556695,0 1.007986,0.444946 1.007986,0.993398 l 0,16.013204 c 0,0.548639 -0.419021,0.827507 -0.934233,0.623534 L 26.62835,67.184581 c -0.515962,-0.20427 -0.934232,-0.808802 -0.934232,-1.368144 l 0,-13.218157 z"
+             id="Rectangle-19"
+             inkscape:connector-curvature="0"
+             style="fill:#552c08" />
+          <path
+             d="m 68.517647,52.59828 c 0,-0.551335 0.440089,-0.99828 1.007986,-0.99828 l 5.019322,0 c 0.556695,0 1.007986,0.444946 1.007986,0.993398 l 0,16.013204 c 0,0.548639 -0.419021,0.827507 -0.934233,0.623534 L 69.45188,67.184581 c -0.515963,-0.20427 -0.934233,-0.808802 -0.934233,-1.368144 l 0,-13.218157 z"
+             id="Rectangle-19-Copy"
+             transform="matrix(-1,0,0,1,144.07059,0)"
+             inkscape:connector-curvature="0"
+             style="fill:#552c08" />
+          <ellipse
+             id="Oval-7"
+             cx="52"
+             cy="48"
+             rx="52"
+             ry="6"
+             d="m 104,48 c 0,3.313708 -23.281193,6 -52,6 -28.718807,0 -52,-2.686292 -52,-6 0,-3.313708 23.281193,-6 52,-6 28.718807,0 52,2.686292 52,6 z"
+             sodipodi:cx="52"
+             sodipodi:cy="48"
+             sodipodi:rx="52"
+             sodipodi:ry="6"
+             style="fill:#f29e08" />
+          <path
+             d="m 23.247059,36.79869 c 0,-1.103846 0.895425,-1.99869 2.003119,-1.99869 l 52.276115,0 c 1.106292,0 2.003119,0.888615 2.003119,1.99869 l 0,5.820802 c 0,1.103846 -0.89141,2.067802 -1.997745,2.153577 0,0 1.997745,-0.154887 -26.143432,2.026931 L 25.244803,44.773069 c -1.103324,-0.08554 -1.997744,-1.043502 -1.997744,-2.153577 l 0,-5.820802 z"
+             id="Rectangle-17"
+             inkscape:connector-curvature="0"
+             style="fill:#d6483a" />
+          <rect
+             id="Rectangle-21"
+             x="35.482353"
+             y="56.400002"
+             width="12.235294"
+             height="3.5999999"
+             rx="0.75"
+             style="fill:#552c08" />
+          <rect
+             id="Rectangle-21-Copy"
+             x="53.835293"
+             y="56.400002"
+             width="12.235294"
+             height="3.5999999"
+             rx="0.75"
+             style="fill:#552c08" />
+          <path
+             d="m 34.005923,10.080719 c -3.925614,2.868993 -5.964051,9.371046 -5.964051,9.371046 0,0 11.185579,-2.85689 16.755601,-7.35849 5.570021,-4.5016007 4.589716,-8.2415096 4.589716,-8.2415096 0,0 -6.546444,0.7765023 -14.433121,5.63053 -7.886677,4.8540276 -0.688107,0.4083773 -0.948145,0.5984236 z"
+             id="Path-3"
+             inkscape:connector-curvature="0"
+             style="fill:#d6483a" />
+          <path
+             d="m 68.365361,10.080719 c 3.925614,2.868993 5.964051,9.371046 5.964051,9.371046 0,0 -11.185579,-2.85689 -16.755601,-7.35849 -5.570021,-4.5016007 -4.589716,-8.2415096 -4.589716,-8.2415096 0,0 6.546444,0.7765023 14.433121,5.63053 7.886677,4.8540276 0.688107,0.4083773 0.948145,0.5984236 z"
+             id="Path-3-Copy"
+             inkscape:connector-curvature="0"
+             style="fill:#d6483a" />
+        </g>
+        <g
+           id="Wifi"
+           transform="translate(83,9)"
+           sketch:type="MSShapeGroup">
+          <path
+             d="m 3.6387601,11.324259 c 1.2734499,0.259005 2.5250876,1.065378 3.3766234,1.814727 0.7258758,0.638768 1.851229,2.694261 2.2911039,3.835911 0.7414986,1.924484 0.8709316,3.417892 0.8709316,3.417892 l -9.78019524,0 0,-9.06853 c 0,0 1.59957944,-0.333955 3.24153634,0 z"
+             id="Triangle-1"
+             inkscape:connector-curvature="0"
+             style="fill:#d6483a" />
+          <path
+             d="m 0.43784738,6.5934661 c 0,0 4.88268142,-0.014328 8.04878992,2.2151695 0.3661629,0.2578432 1.7319797,1.2565474 2.0911507,1.6069534 0.662803,0.646631 1.278576,1.687536 1.728523,2.472463 1.90216,3.318295 1.904838,7.330828 1.904838,7.330828"
+             id="Path-5"
+             inkscape:connector-curvature="0"
+             style="stroke:#d6483a;stroke-width:4" />
+          <path
+             d="m 0.33531754,0.08775212 c 0,0 3.80187436,-0.09345959 4.74227406,0 2.8131966,0.27958346 6.4598834,1.43659808 9.7692634,4.52762668 6.036104,5.6378452 5.726479,15.4849632 5.726479,15.4849632"
+             id="Path-7"
+             inkscape:connector-curvature="0"
+             style="stroke:#d6483a;stroke-width:4" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

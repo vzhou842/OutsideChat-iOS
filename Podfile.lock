@@ -1,0 +1,61 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - FMDB (2.3):
+    - FMDB/standard (= 2.3)
+  - FMDB/common (2.3)
+  - FMDB/standard (2.3):
+    - FMDB/common
+  - GRMustache (7.3.0):
+    - JRSwizzle (~> 1.0)
+  - JRSwizzle (1.0)
+  - JSQMessagesViewController (7.1.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - KC_Encryption (1.0)
+  - Mapbox-iOS-SDK (1.6.0):
+    - FMDB (= 2.3)
+    - GRMustache (= 7.3.0)
+    - SMCalloutView (= 2.0)
+  - SGHTTPRequest (1.2.0):
+    - AFNetworking (~> 2.0)
+  - SMCalloutView (2.0)
+
+DEPENDENCIES:
+  - JSQMessagesViewController
+  - KC_Encryption
+  - Mapbox-iOS-SDK (= 1.6.0)
+  - SGHTTPRequest (~> 1.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  FMDB: 773d79bb74226959b7e2286b1d6e0bd857c88915
+  GRMustache: 6baee020c5644416c034f5afb1607f6219e7f753
+  JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
+  JSQMessagesViewController: ca11f86fa68ca70835f05e169df9244147c1dc40
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  KC_Encryption: f0fd465ba25650c9353a6ba9bbfa564bbca5aa94
+  Mapbox-iOS-SDK: ee136ca5b7f853456b50dfd7a7f0e243288cf86f
+  SGHTTPRequest: 828da1d1a56f218c9aed6fd494cc7865d3dd53f4
+  SMCalloutView: f758edd824b18bf4f42de00df1e299861a2d1950
+
+COCOAPODS: 0.37.2
